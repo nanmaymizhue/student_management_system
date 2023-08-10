@@ -1,6 +1,6 @@
 # student_management_system
 
-I wrote student management system with 
+I wrote student management system (CRUD) with 
 frontend => react js and 
 backend => java spring boot
 
